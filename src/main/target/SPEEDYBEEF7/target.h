@@ -21,7 +21,8 @@
 #define USBD_PRODUCT_STRING  "SpeedyBeeF7"
 
 #define LED0                    PC14
-
+#define beeper                  PC13
+#define beeper_inverter
 // UARTs
 #define USB_IO
 #define USE_VCP
